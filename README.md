@@ -37,7 +37,6 @@ These notes summarize each module of the AWS Cloud Practitioner Essentials cours
 
 - [AWS Training – Cloud Practitioner Essentials](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/)
 - [AWS Documentation](https://docs.aws.amazon.com/)
-- [AWS Certified Cloud Practitioner Exam Guide](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 
 *Last Updated: 08/10/2025, 23:45 (GMT+8)*
