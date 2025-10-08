@@ -8,7 +8,6 @@ This repository is designed to help learners and professionals understand the **
 ## 📘 Overview
 
 These notes summarize each module of the AWS Cloud Practitioner Essentials course.  
-They focus on key AWS services, concepts, pricing, architecture, and best practices.
 
 **Total Modules:** 10  
 **Exam Code:** CLF-C02  
@@ -31,39 +30,6 @@ They focus on key AWS services, concepts, pricing, architecture, and best practi
 | **9** | **Migration and Innovation** | Migration strategies, the AWS Well-Architected Framework, and continuous innovation. |
 | **10** | **AWS Certified Cloud Practitioner Basics** | Exam overview, preparation strategies, and key takeaways. |
 
----
-
-## 🧩 Learning Objectives
-
-- Understand the **basic global infrastructure** of AWS.  
-- Explain the **AWS Shared Responsibility Model**.  
-- Describe **key AWS services** and their use cases.  
-- Identify **AWS pricing models** and **support options**.  
-- Summarize the **AWS Well-Architected Framework** principles.  
-- Prepare effectively for the **AWS Cloud Practitioner Certification**.
-
----
-
-## 🛠️ Technologies and Tools Covered
-
-- **Compute:** EC2, Lambda, Elastic Beanstalk  
-- **Networking:** VPC, Route 53, CloudFront, API Gateway  
-- **Storage:** S3, EBS, EFS, Glacier  
-- **Databases:** RDS, DynamoDB, Aurora, Redshift  
-- **Security:** IAM, KMS, GuardDuty, WAF  
-- **Monitoring:** CloudWatch, CloudTrail, Trusted Advisor  
-- **Management:** CloudFormation, CloudShell, Cost Explorer  
-
----
-
-## 🧠 Recommended Study Path
-
-1. Complete all AWS Cloud Practitioner Essentials video lessons.  
-2. Review these notes per module.  
-3. Explore **AWS Free Tier** to gain hands-on experience.  
-4. Practice with **AWS Skill Builder quizzes**.  
-5. Review the **AWS Whitepapers** (e.g., Well-Architected Framework, Pricing Philosophy).  
-6. Attempt **AWS sample exam questions** before scheduling your test.
 
 ---
 
@@ -74,22 +40,5 @@ They focus on key AWS services, concepts, pricing, architecture, and best practi
 - [AWS Documentation](https://docs.aws.amazon.com/)
 - [AWS Certified Cloud Practitioner Exam Guide](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
----
-
-## 🧾 License
-
-This repository is licensed under the **MIT License**.  
-You are free to use, modify, and share with attribution.
-
----
-
-## 👤 Author
-
-**[Your Name]**  
-AWS Cloud & Software Engineering Professional  
-📧 [your.email@example.com]  
-🌐 [LinkedIn / GitHub Profile Link]
-
----
 
 *Last Updated: 08/10/2025, 23:45 (GMT+8)*
